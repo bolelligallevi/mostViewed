@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-21T13:41:46+00:00\n"
+"PO-Revision-Date: 2021-01-21T13:41:46+00:00\n"
+"Language: \n"
+
+msgid "admin.scheduledTask.mostViewed"
+msgstr "mostViewed"
+
+msgid "plugins.generic.most.viewed.title"
+msgstr "Most Viewed Articles"
+
+msgid "plugins.generic.most.viewed.desc"
+msgstr "Mostra gli articoli più visti e scaricati nella homepage della rivista."
+
+msgid "plugins.generic.most.viewed.headline"
+msgstr "Articoli più visti"
+
+msgid "plugins.generic.most.viewed.head"
+msgstr "Sezione dell'intestazione"
+
+msgid "plugins.generic.most.viewed.head.desc"
+msgstr "L'intestazione che viene mostrata sopra gli articoli più letti. Lasciare il campo vuoto per mostrare \"Articoli più letti\"."
+
+msgid "plugins.generic.most.viewed.days"
+msgstr "Numero di giorni"
+
+msgid "plugins.generic.most.viewed.days.desc"
+msgstr "Include viste e download di questo numero di giorni. Ad esempio inserire 30 per ottenere gli articoli più letti degli ultimi 30 giorni."
+
+msgid "plugins.generic.most.viewed.amount"
+msgstr "Numero di articoli"
+
+msgid "plugins.generic.most.viewed.amount.desc"
+msgstr "Quanti articoli vanno mostrati."
+
+msgid "plugins.generic.most.viewed.years"
+msgstr "Vecchi articoli da escludere"
+
+msgid "plugins.generic.most.viewed.years.desc"
+msgstr "Esclude articoli pubblicati più di questo numero di anni fa. Ad eempio, indica 2 se vuoi includere solo articoli pubblicati negli ultimi due anni. Lascia il campo vuoto per includere tutti gli aricoli pubblicati."
+
+msgid "plugins.generic.most.viewed.position"
+msgstr "Dove mostrare i dati"
+
+msgid "plugins.generic.most.viewed.position.desc"
+msgstr "Se abiliti questo settaggio il plugin proverà a mostrare gli articoli più letti in fondo alla homepage della rivista. Può non funzionare con tutti i temi grafici."
+
+msgid "plugins.generic.most.viewed.position.check"
+msgstr "Prova a spostare gli articoli più letti in fondo all'homepage della rivista"
